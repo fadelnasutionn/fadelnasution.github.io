@@ -428,6 +428,9 @@ btn:active {
   background-color: #212121;
   color: #ffffff;
 }
+.contact .contact-item {
+  margin: 1rem;
+}
 .contact .section-title h2 {
   color: #ffffff;
 }
@@ -482,6 +485,18 @@ btn:active {
 /*---- Message ----*/
 .alert-msg {
   font-size: 0.8rem;
+}
+
+/*---- Footer ----*/
+.footer {
+  background-color: #212121;
+  margin-top: -2px;
+  padding-bottom: 20px;
+}
+.footer p {
+  color: #ffffff;
+  font-size: small;
+  text-align: center;
 }
 
 /*---- Responsive ----*/
