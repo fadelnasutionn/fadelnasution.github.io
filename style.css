@@ -397,6 +397,14 @@ btn:active {
 .text-right {
   text-align: end;
 }
+.seemore-btn a {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #9c9c9c;
+  text-align: center;
+  font-weight: 600;
+  text-decoration: none;
+}
 
 /*---- Projects ----*/
 .projects .button-group button {
